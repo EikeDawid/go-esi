@@ -12,6 +12,7 @@ ESI:
 -  [Akamai ESI Examples](http://esi-examples.akamai.com/)
 -  [Akamai ESI 1.0 Extensions (for Edgesuite 5.0)](http://www.akamai.com/dl/technical_publications/akamai_esi_extensions.pdf)
 -  [Akamai ESI Developer Guide](http://www.akamai.com/dl/technical_publications/akamai_esi_developers_guide.pdf)
+-  [Oracle Web Cache Administrator Guide](http://docs.oracle.com/cd/B14099_19/caching.1012/b14046/esi.htm)
   
 
 GO:
