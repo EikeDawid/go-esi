@@ -8,8 +8,9 @@ Just starting development
 ESI:
 -----
 
--  [ESI spec](http://www.w3.org/TR/esi-lang)
+-  [ESI 1.0 spec](http://www.w3.org/TR/esi-lang)
 -  [Akamai ESI Examples](http://esi-examples.akamai.com/)
+-  [Akamai ESI 1.0 Extensions (for Edgesuite 5.0)](http://www.akamai.com/dl/technical_publications/akamai_esi_extensions.pdf)
   
 
 GO:
