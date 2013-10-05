@@ -33,5 +33,13 @@ Components:
 5. Admin functions
 6. Monitoring endpoint ( see revel )
 
-  
+Questions:
+-----
+### How to control the processing? 
+  - We don't wanna process every single repsonse and look for ESI content.
+  - Varnish uses special extensions ( ehtml )
+  - OAS Web Cache uses Surrogate-Control headers on the response, e.g. `Surrogate-Control: content="ESI-INV/1.0 ORAESI/9.0.4"`
+  - Advantage of the extension would be that the traffic could be easily cherry picked
+
+
 
